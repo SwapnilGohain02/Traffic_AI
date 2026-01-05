@@ -53,4 +53,3 @@ not production-scale deployment.
 
 python -m streamlit run ui_app.py
 pip install -r requirements.txt
-python -m streamlit run ui_app.py
